@@ -1,0 +1,7 @@
+{
+  "name": "SpendWise",
+  "description": "Track your money. Understand your spending. Build better habits. Modern personal finance and expense tracker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
